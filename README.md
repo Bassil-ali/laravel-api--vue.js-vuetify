@@ -2,7 +2,7 @@
 
 ## We are going to use Pusher, Laravel, Vuejs. Vuetify, JWT, and markdown
 
-This project is the source code of a Udemy course, you can get this course with discount coupon from [here](https://goo.gl/mB6ssR)
+
 
 ## Installation
 
@@ -86,4 +86,4 @@ php artisan queue:work
 
 keep this running.
 
-_For any query, contact sarthak@bitfumes.com_
+
